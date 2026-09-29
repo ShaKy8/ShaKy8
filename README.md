@@ -42,6 +42,13 @@ missed from Windows.
 - **The rebuild kit** — my laptop as a repo: every package, /etc file and
   dotfile, and how to rebuild it. Private, because it's mine.
 
+## In the browser
+
+- **[Tab Overview](https://github.com/ShaKy8/edge-tab-overview)** — Mission
+  Control for Microsoft Edge: one shortcut and every tab in every window
+  appears as a live thumbnail grid. Click to switch, type to filter, drag
+  to move. Plain HTML, CSS and JavaScript, no build step.
+
 ## At home
 
 - **[HomeNetMon](https://github.com/ShaKy8/HomeNetMon)** — a self-hosted
