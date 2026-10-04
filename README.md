@@ -38,8 +38,8 @@ missed from Windows.
   has to be relearned.
 - **[CLIP//NET](https://github.com/ShaKy8/clipnet)** — Ditto for Omarchy:
   every copy kept with all of its formats, Ctrl+' to search and paste.
-- **SYS//NET** — a low-power system HUD painted into the ATMOS//NET
-  wallpaper, in Quickshell. Private for now.
+- **[SYS//NET](https://github.com/ShaKy8/sysnet-hud)** — a low-power system HUD
+  painted into the ATMOS//NET wallpaper, in Quickshell.
 - **The rebuild kit** — my laptop as a repo: every package, /etc file and
   dotfile, and how to rebuild it. Private, because it's mine.
 
